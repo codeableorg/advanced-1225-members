@@ -1,0 +1,4 @@
+- Nombre: Ronald Q.
+- Rol: Estudiante
+- Edad: 30
+- Residencia: Lima, Perú

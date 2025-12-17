@@ -4,4 +4,6 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 
 ## Miembros
 
-- Diego Torres (Instructor)
+1. Diego Torres (Instructor)
+2. Julio Zarate
+3. Ronald Q
