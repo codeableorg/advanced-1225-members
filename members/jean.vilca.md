@@ -1,0 +1,4 @@
+- Nombre: Jean Vilca
+- Rol: Estudiante
+- Edad: 25
+- Residencia: Ica, Perú
