@@ -1,0 +1,4 @@
+- Nombre: Adel Sebastian Muñoz
+- Rol: estudiante
+- Edad: 25
+- Residencia: Bogotá, Colombia
