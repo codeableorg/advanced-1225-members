@@ -14,3 +14,5 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 8. Jean Vilca
 9. Elvis Villa
 10. Ronald Quispealaya
+3. Ronald Q
+
