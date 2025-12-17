@@ -4,10 +4,12 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 
 ## Miembros
 
-<<<<<<< HEAD
 - Diego Torres (Instructor)
-3. Diego Saldarriaga
-=======
+
 1. Diego Torres (Instructor)
 2. Julio Zarate
->>>>>>> 56c6c67ebc282b90bdbfb3f094e9930eac6d0257
+2. Julio Zarate 
+3. David Reyes
+4. Luiggi Abello-Hurtado Fuchs
+5. Adel Muñoz
+7. Diego Saldarriaga
