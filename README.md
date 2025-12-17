@@ -5,6 +5,7 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 ## Miembros
 
 1. Diego Torres (Instructor)
-2. Julio Zarate
+2. Julio Zarate 
 3. David Reyes
 4. Luiggi Abello-Hurtado Fuchs
+5. Adel Muñoz
