@@ -5,3 +5,4 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 ## Miembros
 
 - Diego Torres (Instructor)
+- Luiggi Abello-Hurtado Fuchs

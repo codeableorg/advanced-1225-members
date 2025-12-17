@@ -1,0 +1,4 @@
+- Nombre: Luiggi Abello-Hurtado Fuchs
+- Rol: Estudiante
+- Edad: 32
+- Residencia: Lima, Perú
