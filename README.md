@@ -4,4 +4,5 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 
 ## Miembros
 
-- Diego Torres (Instructor)
+1. Diego Torres (Instructor)
+3. Luis Homero (Estudiante)

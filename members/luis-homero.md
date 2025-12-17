@@ -1,0 +1,4 @@
+- Nombre: Luis Homero
+- Rol: Estudiante
+- Edad: 27
+- Residencia: Trujillo, Perú
