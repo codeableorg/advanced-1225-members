@@ -1,0 +1,4 @@
+- Nombre: Diego Torres
+- Rol: Instructor
+- Edad: 39
+- Residencia: Lima, Perú
