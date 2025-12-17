@@ -1,0 +1,4 @@
+- Nombre: Elvis
+- Rol: Estudiante
+- Edad: 15
+- Residencia: Lima, Perú
