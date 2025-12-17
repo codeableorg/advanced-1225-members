@@ -1,0 +1,4 @@
+- Nombre: Julian Hernandez
+- Rol: Estudiante
+- Edad: 28
+- Residencia: Bogotá, Colombia
