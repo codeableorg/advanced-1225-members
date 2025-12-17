@@ -1,0 +1,4 @@
+- Nombre: Julio Zarate
+- Rol: Estudiante
+- Edad: 40
+- Residencia: Lima, Perú
