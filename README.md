@@ -11,3 +11,4 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 5. Adel Muñoz
 6. Diego Saldarriaga
 7. Grover Alegria
+8. Jean Vilca
