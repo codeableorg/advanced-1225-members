@@ -1,0 +1,4 @@
+- Nombre: Diego Saldarriaga
+- Rol: Aprendiz
+- Edad: 31
+- Residencia: Lima, Perú
