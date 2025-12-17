@@ -1,4 +1,4 @@
-- Nombre: Elvis
+- Nombre: Elvis Villa
 - Rol: Estudiante
-- Edad: 15
+- Edad: 39
 - Residencia: Lima, Perú
