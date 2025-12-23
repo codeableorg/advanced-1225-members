@@ -13,3 +13,4 @@ Este repositorio contiene la lista de miembros del grupo Advanced para el mes de
 7. Grover Alegria
 8. Jean Vilca
 13. Paola Zarate Aragon
+14. Jose Reyes
